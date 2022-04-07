@@ -1,3 +1,3 @@
 # Livro de receitas 👨‍🍳️
 
-##Olá seja bem vindo ao livro de receitas
+lá seja bem vindo ao livro de receitas
